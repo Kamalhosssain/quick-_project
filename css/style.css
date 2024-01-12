@@ -17,7 +17,7 @@ header{
 .container{
 	 margin: 0 auto;
     width: 90%;
-	
+	border: 1px solid;
 	overflow: hidden;
 }
 
@@ -71,7 +71,7 @@ header{
 	 margin-bottom: 0;
     font-weight: 700;
     font-size: 36px;
-    padding: 0 190px;
+    padding: 0 220px;
     line-height: 55px;
 
 }
@@ -79,7 +79,7 @@ header{
 	color: #008aff;
 }
 .b_p{
-	padding-bottom: 10px;
+	padding:0 95px 10px;
     line-height: 24px;
 }
 .b_img{}
@@ -122,10 +122,10 @@ header{
 /*success end*/
 /*service stsrt*/
 .service{}
-.s_content{}
+
 .s_service{
 		margin-right: 28px;
-		width: 27%;
+		width: 28%;
 	    padding: 30px 25px 50px;
 	    background-color: #fdebed;
 	    float: left;
